@@ -1,6 +1,6 @@
 # Waterloo Adjustment Factors
 
-**A FIPPA request for the 2023, 2024, and 2025 adjustment factors (2022/23, 2023/24, 2024/2025 admission cycles) has been made. Please update this if newer adjustment factors are available.**
+**Please update this if newer adjustment factors are available.**
 
 This repository contains the adjustment factors from 2008-2024, used for the 2008/09-2024/25 admissions cycles. The adjustment factors are used for Engineering admissions at Waterloo only.
 
